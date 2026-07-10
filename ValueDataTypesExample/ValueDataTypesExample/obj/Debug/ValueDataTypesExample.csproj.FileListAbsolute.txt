@@ -1,0 +1,7 @@
+C:\DotNet7\C#\ValueDataTypesExample\ValueDataTypesExample\bin\Debug\ValueDataTypesExample.exe.config
+C:\DotNet7\C#\ValueDataTypesExample\ValueDataTypesExample\bin\Debug\ValueDataTypesExample.exe
+C:\DotNet7\C#\ValueDataTypesExample\ValueDataTypesExample\bin\Debug\ValueDataTypesExample.pdb
+C:\DotNet7\C#\ValueDataTypesExample\ValueDataTypesExample\obj\Debug\ValueDataTypesExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\ValueDataTypesExample\ValueDataTypesExample\obj\Debug\ValueDataTypesExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\ValueDataTypesExample\ValueDataTypesExample\obj\Debug\ValueDataTypesExample.exe
+C:\DotNet7\C#\ValueDataTypesExample\ValueDataTypesExample\obj\Debug\ValueDataTypesExample.pdb
