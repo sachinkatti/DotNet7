@@ -1,0 +1,7 @@
+C:\DotNet7\C#\FunctionExampleType\FunctionExampleType\bin\Debug\FunctionExampleType.exe.config
+C:\DotNet7\C#\FunctionExampleType\FunctionExampleType\bin\Debug\FunctionExampleType.exe
+C:\DotNet7\C#\FunctionExampleType\FunctionExampleType\bin\Debug\FunctionExampleType.pdb
+C:\DotNet7\C#\FunctionExampleType\FunctionExampleType\obj\Debug\FunctionExampleType.csproj.AssemblyReference.cache
+C:\DotNet7\C#\FunctionExampleType\FunctionExampleType\obj\Debug\FunctionExampleType.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\FunctionExampleType\FunctionExampleType\obj\Debug\FunctionExampleType.exe
+C:\DotNet7\C#\FunctionExampleType\FunctionExampleType\obj\Debug\FunctionExampleType.pdb

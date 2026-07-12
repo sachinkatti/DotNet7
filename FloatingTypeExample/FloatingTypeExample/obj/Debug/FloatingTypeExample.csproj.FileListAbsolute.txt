@@ -1,0 +1,7 @@
+C:\DotNet7\C#\FloatingTypeExample\FloatingTypeExample\bin\Debug\FloatingTypeExample.exe.config
+C:\DotNet7\C#\FloatingTypeExample\FloatingTypeExample\bin\Debug\FloatingTypeExample.exe
+C:\DotNet7\C#\FloatingTypeExample\FloatingTypeExample\bin\Debug\FloatingTypeExample.pdb
+C:\DotNet7\C#\FloatingTypeExample\FloatingTypeExample\obj\Debug\FloatingTypeExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\FloatingTypeExample\FloatingTypeExample\obj\Debug\FloatingTypeExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\FloatingTypeExample\FloatingTypeExample\obj\Debug\FloatingTypeExample.exe
+C:\DotNet7\C#\FloatingTypeExample\FloatingTypeExample\obj\Debug\FloatingTypeExample.pdb
