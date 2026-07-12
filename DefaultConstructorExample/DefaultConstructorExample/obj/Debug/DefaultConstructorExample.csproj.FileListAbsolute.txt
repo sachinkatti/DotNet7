@@ -1,0 +1,7 @@
+C:\DotNet7\C#\DefaultConstructorExample\DefaultConstructorExample\bin\Debug\DefaultConstructorExample.exe.config
+C:\DotNet7\C#\DefaultConstructorExample\DefaultConstructorExample\bin\Debug\DefaultConstructorExample.exe
+C:\DotNet7\C#\DefaultConstructorExample\DefaultConstructorExample\bin\Debug\DefaultConstructorExample.pdb
+C:\DotNet7\C#\DefaultConstructorExample\DefaultConstructorExample\obj\Debug\DefaultConstructorExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\DefaultConstructorExample\DefaultConstructorExample\obj\Debug\DefaultConstructorExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\DefaultConstructorExample\DefaultConstructorExample\obj\Debug\DefaultConstructorExample.exe
+C:\DotNet7\C#\DefaultConstructorExample\DefaultConstructorExample\obj\Debug\DefaultConstructorExample.pdb
