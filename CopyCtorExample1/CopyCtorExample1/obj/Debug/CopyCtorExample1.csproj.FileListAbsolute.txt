@@ -1,0 +1,7 @@
+C:\DotNet7\C#\CopyCtorExample1\CopyCtorExample1\bin\Debug\CopyCtorExample1.exe.config
+C:\DotNet7\C#\CopyCtorExample1\CopyCtorExample1\bin\Debug\CopyCtorExample1.exe
+C:\DotNet7\C#\CopyCtorExample1\CopyCtorExample1\bin\Debug\CopyCtorExample1.pdb
+C:\DotNet7\C#\CopyCtorExample1\CopyCtorExample1\obj\Debug\CopyCtorExample1.csproj.AssemblyReference.cache
+C:\DotNet7\C#\CopyCtorExample1\CopyCtorExample1\obj\Debug\CopyCtorExample1.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\CopyCtorExample1\CopyCtorExample1\obj\Debug\CopyCtorExample1.exe
+C:\DotNet7\C#\CopyCtorExample1\CopyCtorExample1\obj\Debug\CopyCtorExample1.pdb
