@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet7\\C#\\CopyCtorExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60980BB6-1F44-4C69-9941-6DA31314B895}|CopyCtorExample\\CopyCtorExample.csproj|c:\\dotnet7\\c#\\copyctorexample\\copyctorexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60980BB6-1F44-4C69-9941-6DA31314B895}|CopyCtorExample\\CopyCtorExample.csproj|solutionrelative:copyctorexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60980BB6-1F44-4C69-9941-6DA31314B895}|CopyCtorExample\\CopyCtorExample.csproj|c:\\dotnet7\\c#\\copyctorexample\\copyctorexample\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60980BB6-1F44-4C69-9941-6DA31314B895}|CopyCtorExample\\CopyCtorExample.csproj|solutionrelative:copyctorexample\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\DotNet7\\C#\\CopyCtorExample\\CopyCtorExample\\Address.cs",
+              "RelativeDocumentMoniker": "CopyCtorExample\\Address.cs",
+              "ToolTip": "C:\\DotNet7\\C#\\CopyCtorExample\\CopyCtorExample\\Address.cs",
+              "RelativeToolTip": "CopyCtorExample\\Address.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T09:15:52.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet7\\C#\\CopyCtorExample\\CopyCtorExample\\Program.cs",
+              "RelativeDocumentMoniker": "CopyCtorExample\\Program.cs",
+              "ToolTip": "C:\\DotNet7\\C#\\CopyCtorExample\\CopyCtorExample\\Program.cs",
+              "RelativeToolTip": "CopyCtorExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T09:15:18.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
