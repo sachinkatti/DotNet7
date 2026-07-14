@@ -1,0 +1,7 @@
+C:\DotNet7\C#\MathStaticExample\MathStaticExample\bin\Debug\MathStaticExample.exe.config
+C:\DotNet7\C#\MathStaticExample\MathStaticExample\bin\Debug\MathStaticExample.exe
+C:\DotNet7\C#\MathStaticExample\MathStaticExample\bin\Debug\MathStaticExample.pdb
+C:\DotNet7\C#\MathStaticExample\MathStaticExample\obj\Debug\MathStaticExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\MathStaticExample\MathStaticExample\obj\Debug\MathStaticExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\MathStaticExample\MathStaticExample\obj\Debug\MathStaticExample.exe
+C:\DotNet7\C#\MathStaticExample\MathStaticExample\obj\Debug\MathStaticExample.pdb
