@@ -1,0 +1,10 @@
+C:\DotNet7\C#\StaticCtorExample\StaticCtorExample\bin\Debug\StaticCtorExample.exe.config
+C:\DotNet7\C#\StaticCtorExample\StaticCtorExample\bin\Debug\StaticCtorExample.exe
+C:\DotNet7\C#\StaticCtorExample\StaticCtorExample\bin\Debug\StaticCtorExample.pdb
+C:\DotNet7\C#\StaticCtorExample\StaticCtorExample\obj\Debug\StaticCtorExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\StaticCtorExample\StaticCtorExample\obj\Debug\StaticCtorExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\StaticCtorExample\StaticCtorExample\obj\Debug\StaticCtorExample.exe
+C:\DotNet7\C#\StaticCtorExample\StaticCtorExample\obj\Debug\StaticCtorExample.pdb
+C:\DotNet7\C#\StaticCtorExample\StaticCtorExample\bin\Debug\PriceCalculation.dll
+C:\DotNet7\C#\StaticCtorExample\StaticCtorExample\bin\Debug\PriceCalculation.pdb
+C:\DotNet7\C#\StaticCtorExample\StaticCtorExample\obj\Debug\StaticCt.0D13251E.Up2Date
