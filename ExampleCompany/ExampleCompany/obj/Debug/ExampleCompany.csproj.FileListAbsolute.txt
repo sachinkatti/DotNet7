@@ -1,0 +1,10 @@
+C:\DotNet7\C#\ExampleCompany\ExampleCompany\bin\Debug\ExampleCompany.exe.config
+C:\DotNet7\C#\ExampleCompany\ExampleCompany\bin\Debug\ExampleCompany.exe
+C:\DotNet7\C#\ExampleCompany\ExampleCompany\bin\Debug\ExampleCompany.pdb
+C:\DotNet7\C#\ExampleCompany\ExampleCompany\obj\Debug\ExampleCompany.csproj.AssemblyReference.cache
+C:\DotNet7\C#\ExampleCompany\ExampleCompany\obj\Debug\ExampleCompany.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\ExampleCompany\ExampleCompany\obj\Debug\ExampleCompany.exe
+C:\DotNet7\C#\ExampleCompany\ExampleCompany\obj\Debug\ExampleCompany.pdb
+C:\DotNet7\C#\ExampleCompany\ExampleCompany\bin\Debug\CompanyMs.dll
+C:\DotNet7\C#\ExampleCompany\ExampleCompany\bin\Debug\CompanyMs.pdb
+C:\DotNet7\C#\ExampleCompany\ExampleCompany\obj\Debug\ExampleC.F49042BE.Up2Date
