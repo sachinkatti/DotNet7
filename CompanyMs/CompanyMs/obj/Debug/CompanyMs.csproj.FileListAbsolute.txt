@@ -1,0 +1,6 @@
+C:\DotNet7\C#\CompanyMs\CompanyMs\bin\Debug\CompanyMs.dll
+C:\DotNet7\C#\CompanyMs\CompanyMs\bin\Debug\CompanyMs.pdb
+C:\DotNet7\C#\CompanyMs\CompanyMs\obj\Debug\CompanyMs.csproj.AssemblyReference.cache
+C:\DotNet7\C#\CompanyMs\CompanyMs\obj\Debug\CompanyMs.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\CompanyMs\CompanyMs\obj\Debug\CompanyMs.dll
+C:\DotNet7\C#\CompanyMs\CompanyMs\obj\Debug\CompanyMs.pdb
