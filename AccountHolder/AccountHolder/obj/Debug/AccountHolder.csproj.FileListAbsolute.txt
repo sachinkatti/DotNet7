@@ -1,0 +1,7 @@
+C:\DotNet7\C#\AccountHolder\AccountHolder\bin\Debug\AccountHolder.exe.config
+C:\DotNet7\C#\AccountHolder\AccountHolder\bin\Debug\AccountHolder.exe
+C:\DotNet7\C#\AccountHolder\AccountHolder\bin\Debug\AccountHolder.pdb
+C:\DotNet7\C#\AccountHolder\AccountHolder\obj\Debug\AccountHolder.csproj.AssemblyReference.cache
+C:\DotNet7\C#\AccountHolder\AccountHolder\obj\Debug\AccountHolder.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\AccountHolder\AccountHolder\obj\Debug\AccountHolder.exe
+C:\DotNet7\C#\AccountHolder\AccountHolder\obj\Debug\AccountHolder.pdb
