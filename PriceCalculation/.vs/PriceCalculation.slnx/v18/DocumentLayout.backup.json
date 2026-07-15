@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet7\\C#\\PriceCalculation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C743CA4A-5E50-445B-8DC8-6BFA3D777E05}|PriceCalculation\\PriceCalculation.csproj|c:\\dotnet7\\c#\\pricecalculation\\pricecalculation\\calculationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C743CA4A-5E50-445B-8DC8-6BFA3D777E05}|PriceCalculation\\PriceCalculation.csproj|solutionrelative:pricecalculation\\calculationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculationExtension.cs",
+              "DocumentMoniker": "C:\\DotNet7\\C#\\PriceCalculation\\PriceCalculation\\CalculationExtension.cs",
+              "RelativeDocumentMoniker": "PriceCalculation\\CalculationExtension.cs",
+              "ToolTip": "C:\\DotNet7\\C#\\PriceCalculation\\PriceCalculation\\CalculationExtension.cs",
+              "RelativeToolTip": "PriceCalculation\\CalculationExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T09:56:54.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

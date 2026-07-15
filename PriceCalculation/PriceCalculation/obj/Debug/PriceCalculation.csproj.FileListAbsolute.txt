@@ -1,0 +1,6 @@
+C:\DotNet7\C#\PriceCalculation\PriceCalculation\bin\Debug\PriceCalculation.dll
+C:\DotNet7\C#\PriceCalculation\PriceCalculation\bin\Debug\PriceCalculation.pdb
+C:\DotNet7\C#\PriceCalculation\PriceCalculation\obj\Debug\PriceCalculation.csproj.AssemblyReference.cache
+C:\DotNet7\C#\PriceCalculation\PriceCalculation\obj\Debug\PriceCalculation.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\PriceCalculation\PriceCalculation\obj\Debug\PriceCalculation.dll
+C:\DotNet7\C#\PriceCalculation\PriceCalculation\obj\Debug\PriceCalculation.pdb
