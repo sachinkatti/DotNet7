@@ -1,0 +1,7 @@
+C:\DotNet7\C#\IfExample\IfExample\bin\Debug\IfExample.exe.config
+C:\DotNet7\C#\IfExample\IfExample\bin\Debug\IfExample.exe
+C:\DotNet7\C#\IfExample\IfExample\bin\Debug\IfExample.pdb
+C:\DotNet7\C#\IfExample\IfExample\obj\Debug\IfExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\IfExample\IfExample\obj\Debug\IfExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\IfExample\IfExample\obj\Debug\IfExample.exe
+C:\DotNet7\C#\IfExample\IfExample\obj\Debug\IfExample.pdb
