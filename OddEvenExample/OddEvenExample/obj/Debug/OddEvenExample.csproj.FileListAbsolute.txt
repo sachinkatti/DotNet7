@@ -1,0 +1,7 @@
+C:\DotNet7\C#\OddEvenExample\OddEvenExample\bin\Debug\OddEvenExample.exe.config
+C:\DotNet7\C#\OddEvenExample\OddEvenExample\bin\Debug\OddEvenExample.exe
+C:\DotNet7\C#\OddEvenExample\OddEvenExample\bin\Debug\OddEvenExample.pdb
+C:\DotNet7\C#\OddEvenExample\OddEvenExample\obj\Debug\OddEvenExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\OddEvenExample\OddEvenExample\obj\Debug\OddEvenExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\OddEvenExample\OddEvenExample\obj\Debug\OddEvenExample.exe
+C:\DotNet7\C#\OddEvenExample\OddEvenExample\obj\Debug\OddEvenExample.pdb
