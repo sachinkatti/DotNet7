@@ -1,0 +1,7 @@
+C:\DotNet7\C#\AssignmentExample\AssignmentExample\bin\Debug\AssignmentExample.exe.config
+C:\DotNet7\C#\AssignmentExample\AssignmentExample\bin\Debug\AssignmentExample.exe
+C:\DotNet7\C#\AssignmentExample\AssignmentExample\bin\Debug\AssignmentExample.pdb
+C:\DotNet7\C#\AssignmentExample\AssignmentExample\obj\Debug\AssignmentExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\AssignmentExample\AssignmentExample\obj\Debug\AssignmentExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\AssignmentExample\AssignmentExample\obj\Debug\AssignmentExample.exe
+C:\DotNet7\C#\AssignmentExample\AssignmentExample\obj\Debug\AssignmentExample.pdb
