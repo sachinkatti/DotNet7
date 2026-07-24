@@ -1,0 +1,7 @@
+C:\DotNet7\C#\ForLoopExample\ForLoopExample\bin\Debug\ForLoopExample.exe.config
+C:\DotNet7\C#\ForLoopExample\ForLoopExample\bin\Debug\ForLoopExample.exe
+C:\DotNet7\C#\ForLoopExample\ForLoopExample\bin\Debug\ForLoopExample.pdb
+C:\DotNet7\C#\ForLoopExample\ForLoopExample\obj\Debug\ForLoopExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\ForLoopExample\ForLoopExample\obj\Debug\ForLoopExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\ForLoopExample\ForLoopExample\obj\Debug\ForLoopExample.exe
+C:\DotNet7\C#\ForLoopExample\ForLoopExample\obj\Debug\ForLoopExample.pdb
