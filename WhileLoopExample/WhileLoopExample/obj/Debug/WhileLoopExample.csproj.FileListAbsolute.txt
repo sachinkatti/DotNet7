@@ -1,0 +1,7 @@
+C:\DotNet7\C#\WhileLoopExample\WhileLoopExample\bin\Debug\WhileLoopExample.exe.config
+C:\DotNet7\C#\WhileLoopExample\WhileLoopExample\bin\Debug\WhileLoopExample.exe
+C:\DotNet7\C#\WhileLoopExample\WhileLoopExample\bin\Debug\WhileLoopExample.pdb
+C:\DotNet7\C#\WhileLoopExample\WhileLoopExample\obj\Debug\WhileLoopExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\WhileLoopExample\WhileLoopExample\obj\Debug\WhileLoopExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\WhileLoopExample\WhileLoopExample\obj\Debug\WhileLoopExample.exe
+C:\DotNet7\C#\WhileLoopExample\WhileLoopExample\obj\Debug\WhileLoopExample.pdb
