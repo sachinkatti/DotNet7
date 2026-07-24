@@ -1,0 +1,7 @@
+C:\DotNet7\C#\LoopExample2\LoopExample2\bin\Debug\LoopExample2.exe.config
+C:\DotNet7\C#\LoopExample2\LoopExample2\bin\Debug\LoopExample2.exe
+C:\DotNet7\C#\LoopExample2\LoopExample2\bin\Debug\LoopExample2.pdb
+C:\DotNet7\C#\LoopExample2\LoopExample2\obj\Debug\LoopExample2.csproj.AssemblyReference.cache
+C:\DotNet7\C#\LoopExample2\LoopExample2\obj\Debug\LoopExample2.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\LoopExample2\LoopExample2\obj\Debug\LoopExample2.exe
+C:\DotNet7\C#\LoopExample2\LoopExample2\obj\Debug\LoopExample2.pdb
