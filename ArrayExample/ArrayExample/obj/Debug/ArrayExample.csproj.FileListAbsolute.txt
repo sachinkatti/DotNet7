@@ -1,0 +1,7 @@
+C:\DotNet7\C#\ArrayExample\ArrayExample\bin\Debug\ArrayExample.exe.config
+C:\DotNet7\C#\ArrayExample\ArrayExample\bin\Debug\ArrayExample.exe
+C:\DotNet7\C#\ArrayExample\ArrayExample\bin\Debug\ArrayExample.pdb
+C:\DotNet7\C#\ArrayExample\ArrayExample\obj\Debug\ArrayExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\ArrayExample\ArrayExample\obj\Debug\ArrayExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\ArrayExample\ArrayExample\obj\Debug\ArrayExample.exe
+C:\DotNet7\C#\ArrayExample\ArrayExample\obj\Debug\ArrayExample.pdb
