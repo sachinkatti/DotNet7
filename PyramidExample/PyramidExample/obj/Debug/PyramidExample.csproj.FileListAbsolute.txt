@@ -1,0 +1,7 @@
+C:\DotNet7\C#\PyramidExample\PyramidExample\bin\Debug\PyramidExample.exe.config
+C:\DotNet7\C#\PyramidExample\PyramidExample\bin\Debug\PyramidExample.exe
+C:\DotNet7\C#\PyramidExample\PyramidExample\bin\Debug\PyramidExample.pdb
+C:\DotNet7\C#\PyramidExample\PyramidExample\obj\Debug\PyramidExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\PyramidExample\PyramidExample\obj\Debug\PyramidExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\PyramidExample\PyramidExample\obj\Debug\PyramidExample.exe
+C:\DotNet7\C#\PyramidExample\PyramidExample\obj\Debug\PyramidExample.pdb
