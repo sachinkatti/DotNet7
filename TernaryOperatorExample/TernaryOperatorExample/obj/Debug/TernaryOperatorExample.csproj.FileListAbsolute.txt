@@ -1,0 +1,7 @@
+C:\DotNet7\C#\TernaryOperatorExample\TernaryOperatorExample\bin\Debug\TernaryOperatorExample.exe.config
+C:\DotNet7\C#\TernaryOperatorExample\TernaryOperatorExample\bin\Debug\TernaryOperatorExample.exe
+C:\DotNet7\C#\TernaryOperatorExample\TernaryOperatorExample\bin\Debug\TernaryOperatorExample.pdb
+C:\DotNet7\C#\TernaryOperatorExample\TernaryOperatorExample\obj\Debug\TernaryOperatorExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\TernaryOperatorExample\TernaryOperatorExample\obj\Debug\TernaryOperatorExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\TernaryOperatorExample\TernaryOperatorExample\obj\Debug\TernaryOperatorExample.exe
+C:\DotNet7\C#\TernaryOperatorExample\TernaryOperatorExample\obj\Debug\TernaryOperatorExample.pdb
