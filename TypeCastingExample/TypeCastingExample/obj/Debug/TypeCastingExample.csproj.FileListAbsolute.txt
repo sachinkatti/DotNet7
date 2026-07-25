@@ -1,0 +1,7 @@
+C:\DotNet7\C#\TypeCastingExample\TypeCastingExample\bin\Debug\TypeCastingExample.exe.config
+C:\DotNet7\C#\TypeCastingExample\TypeCastingExample\bin\Debug\TypeCastingExample.exe
+C:\DotNet7\C#\TypeCastingExample\TypeCastingExample\bin\Debug\TypeCastingExample.pdb
+C:\DotNet7\C#\TypeCastingExample\TypeCastingExample\obj\Debug\TypeCastingExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\TypeCastingExample\TypeCastingExample\obj\Debug\TypeCastingExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\TypeCastingExample\TypeCastingExample\obj\Debug\TypeCastingExample.exe
+C:\DotNet7\C#\TypeCastingExample\TypeCastingExample\obj\Debug\TypeCastingExample.pdb
