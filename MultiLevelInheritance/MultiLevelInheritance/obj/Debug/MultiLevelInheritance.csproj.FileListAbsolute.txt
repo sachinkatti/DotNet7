@@ -1,0 +1,7 @@
+C:\DotNet7\C#\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\MultiLevelInheritance.exe.config
+C:\DotNet7\C#\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\MultiLevelInheritance.exe
+C:\DotNet7\C#\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\MultiLevelInheritance.pdb
+C:\DotNet7\C#\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\MultiLevelInheritance.csproj.AssemblyReference.cache
+C:\DotNet7\C#\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\MultiLevelInheritance.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\MultiLevelInheritance.exe
+C:\DotNet7\C#\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\MultiLevelInheritance.pdb

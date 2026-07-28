@@ -1,0 +1,7 @@
+C:\DotNet7\C#\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\SingleLevelInheritance.exe.config
+C:\DotNet7\C#\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\SingleLevelInheritance.exe
+C:\DotNet7\C#\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\SingleLevelInheritance.pdb
+C:\DotNet7\C#\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\SingleLevelInheritance.csproj.AssemblyReference.cache
+C:\DotNet7\C#\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\SingleLevelInheritance.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\SingleLevelInheritance.exe
+C:\DotNet7\C#\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\SingleLevelInheritance.pdb

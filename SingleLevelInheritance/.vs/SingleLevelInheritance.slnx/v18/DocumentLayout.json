@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet7\\C#\\SingleLevelInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C693EBF-789A-47C7-8456-5898B16259BF}|SingleLevelInheritance\\SingleLevelInheritance.csproj|c:\\dotnet7\\c#\\singlelevelinheritance\\singlelevelinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C693EBF-789A-47C7-8456-5898B16259BF}|SingleLevelInheritance\\SingleLevelInheritance.csproj|solutionrelative:singlelevelinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C693EBF-789A-47C7-8456-5898B16259BF}|SingleLevelInheritance\\SingleLevelInheritance.csproj|c:\\dotnet7\\c#\\singlelevelinheritance\\singlelevelinheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C693EBF-789A-47C7-8456-5898B16259BF}|SingleLevelInheritance\\SingleLevelInheritance.csproj|solutionrelative:singlelevelinheritance\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C693EBF-789A-47C7-8456-5898B16259BF}|SingleLevelInheritance\\SingleLevelInheritance.csproj|c:\\dotnet7\\c#\\singlelevelinheritance\\singlelevelinheritance\\aadhar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C693EBF-789A-47C7-8456-5898B16259BF}|SingleLevelInheritance\\SingleLevelInheritance.csproj|solutionrelative:singlelevelinheritance\\aadhar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\DotNet7\\C#\\SingleLevelInheritance\\SingleLevelInheritance\\Person.cs",
+              "RelativeDocumentMoniker": "SingleLevelInheritance\\Person.cs",
+              "ToolTip": "C:\\DotNet7\\C#\\SingleLevelInheritance\\SingleLevelInheritance\\Person.cs",
+              "RelativeToolTip": "SingleLevelInheritance\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:49:22.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aadhar.cs",
+              "DocumentMoniker": "C:\\DotNet7\\C#\\SingleLevelInheritance\\SingleLevelInheritance\\Aadhar.cs",
+              "RelativeDocumentMoniker": "SingleLevelInheritance\\Aadhar.cs",
+              "ToolTip": "C:\\DotNet7\\C#\\SingleLevelInheritance\\SingleLevelInheritance\\Aadhar.cs",
+              "RelativeToolTip": "SingleLevelInheritance\\Aadhar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:49:06.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet7\\C#\\SingleLevelInheritance\\SingleLevelInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "SingleLevelInheritance\\Program.cs",
+              "ToolTip": "C:\\DotNet7\\C#\\SingleLevelInheritance\\SingleLevelInheritance\\Program.cs",
+              "RelativeToolTip": "SingleLevelInheritance\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:48:48.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
