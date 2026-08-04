@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet7\\C#\\AbstractClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68780C-930A-481D-A77E-233F62696041}|AbstractClassExample\\AbstractClassExample.csproj|c:\\dotnet7\\c#\\abstractclassexample\\abstractclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68780C-930A-481D-A77E-233F62696041}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C68780C-930A-481D-A77E-233F62696041}|AbstractClassExample\\AbstractClassExample.csproj|C:\\DotNet7\\C#\\AbstractClassExample\\abstractclassexample\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C68780C-930A-481D-A77E-233F62696041}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\DotNet7\\C#\\AbstractClassExample\\AbstractClassExample\\Printer.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Printer.cs",
+              "ToolTip": "C:\\DotNet7\\C#\\AbstractClassExample\\AbstractClassExample\\Printer.cs",
+              "RelativeToolTip": "AbstractClassExample\\Printer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA4wCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T08:57:34.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet7\\C#\\AbstractClassExample\\AbstractClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Program.cs",
+              "ToolTip": "C:\\DotNet7\\C#\\AbstractClassExample\\AbstractClassExample\\Program.cs",
+              "RelativeToolTip": "AbstractClassExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T08:57:09.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
