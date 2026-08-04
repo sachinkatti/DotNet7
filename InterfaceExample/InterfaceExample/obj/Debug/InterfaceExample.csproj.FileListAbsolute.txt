@@ -1,0 +1,7 @@
+C:\DotNet7\C#\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+C:\DotNet7\C#\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe
+C:\DotNet7\C#\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.pdb
+C:\DotNet7\C#\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.exe
+C:\DotNet7\C#\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.pdb
