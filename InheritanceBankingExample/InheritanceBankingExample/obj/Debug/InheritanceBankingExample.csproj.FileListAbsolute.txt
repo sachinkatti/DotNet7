@@ -1,0 +1,7 @@
+C:\DotNet7\C#\InheritanceBankingExample\InheritanceBankingExample\bin\Debug\InheritanceBankingExample.exe.config
+C:\DotNet7\C#\InheritanceBankingExample\InheritanceBankingExample\bin\Debug\InheritanceBankingExample.exe
+C:\DotNet7\C#\InheritanceBankingExample\InheritanceBankingExample\bin\Debug\InheritanceBankingExample.pdb
+C:\DotNet7\C#\InheritanceBankingExample\InheritanceBankingExample\obj\Debug\InheritanceBankingExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\InheritanceBankingExample\InheritanceBankingExample\obj\Debug\InheritanceBankingExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\InheritanceBankingExample\InheritanceBankingExample\obj\Debug\InheritanceBankingExample.exe
+C:\DotNet7\C#\InheritanceBankingExample\InheritanceBankingExample\obj\Debug\InheritanceBankingExample.pdb
