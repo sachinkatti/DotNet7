@@ -1,0 +1,7 @@
+C:\DotNet7\C#\ReferenceKeywordExample\ReferenceKeywordExample\bin\Debug\ReferenceKeywordExample.exe.config
+C:\DotNet7\C#\ReferenceKeywordExample\ReferenceKeywordExample\bin\Debug\ReferenceKeywordExample.exe
+C:\DotNet7\C#\ReferenceKeywordExample\ReferenceKeywordExample\bin\Debug\ReferenceKeywordExample.pdb
+C:\DotNet7\C#\ReferenceKeywordExample\ReferenceKeywordExample\obj\Debug\ReferenceKeywordExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\ReferenceKeywordExample\ReferenceKeywordExample\obj\Debug\ReferenceKeywordExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\ReferenceKeywordExample\ReferenceKeywordExample\obj\Debug\ReferenceKeywordExample.exe
+C:\DotNet7\C#\ReferenceKeywordExample\ReferenceKeywordExample\obj\Debug\ReferenceKeywordExample.pdb

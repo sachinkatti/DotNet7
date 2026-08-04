@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet7\\C#\\ReferenceKeywordExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348F96AD-4765-48D4-85B0-58551BE204E9}|ReferenceKeywordExample\\ReferenceKeywordExample.csproj|c:\\dotnet7\\c#\\referencekeywordexample\\referencekeywordexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348F96AD-4765-48D4-85B0-58551BE204E9}|ReferenceKeywordExample\\ReferenceKeywordExample.csproj|solutionrelative:referencekeywordexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348F96AD-4765-48D4-85B0-58551BE204E9}|ReferenceKeywordExample\\ReferenceKeywordExample.csproj|c:\\dotnet7\\c#\\referencekeywordexample\\referencekeywordexample\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348F96AD-4765-48D4-85B0-58551BE204E9}|ReferenceKeywordExample\\ReferenceKeywordExample.csproj|solutionrelative:referencekeywordexample\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Price.cs",
+              "DocumentMoniker": "C:\\DotNet7\\C#\\ReferenceKeywordExample\\ReferenceKeywordExample\\Price.cs",
+              "RelativeDocumentMoniker": "ReferenceKeywordExample\\Price.cs",
+              "ToolTip": "C:\\DotNet7\\C#\\ReferenceKeywordExample\\ReferenceKeywordExample\\Price.cs",
+              "RelativeToolTip": "ReferenceKeywordExample\\Price.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:54:47.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet7\\C#\\ReferenceKeywordExample\\ReferenceKeywordExample\\Program.cs",
+              "RelativeDocumentMoniker": "ReferenceKeywordExample\\Program.cs",
+              "ToolTip": "C:\\DotNet7\\C#\\ReferenceKeywordExample\\ReferenceKeywordExample\\Program.cs",
+              "RelativeToolTip": "ReferenceKeywordExample\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:52:55.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
