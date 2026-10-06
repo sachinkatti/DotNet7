@@ -1,0 +1,7 @@
+C:\DotNet7\C#\ConstKeywordExample2\ConstKeywordExample2\bin\Debug\ConstKeywordExample2.exe.config
+C:\DotNet7\C#\ConstKeywordExample2\ConstKeywordExample2\bin\Debug\ConstKeywordExample2.exe
+C:\DotNet7\C#\ConstKeywordExample2\ConstKeywordExample2\bin\Debug\ConstKeywordExample2.pdb
+C:\DotNet7\C#\ConstKeywordExample2\ConstKeywordExample2\obj\Debug\ConstKeywordExample2.csproj.AssemblyReference.cache
+C:\DotNet7\C#\ConstKeywordExample2\ConstKeywordExample2\obj\Debug\ConstKeywordExample2.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\ConstKeywordExample2\ConstKeywordExample2\obj\Debug\ConstKeywordExample2.exe
+C:\DotNet7\C#\ConstKeywordExample2\ConstKeywordExample2\obj\Debug\ConstKeywordExample2.pdb
