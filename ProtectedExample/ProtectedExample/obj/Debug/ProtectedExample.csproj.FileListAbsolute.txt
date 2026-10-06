@@ -1,0 +1,7 @@
+C:\DotNet7\C#\ProtectedExample\ProtectedExample\bin\Debug\ProtectedExample.exe.config
+C:\DotNet7\C#\ProtectedExample\ProtectedExample\bin\Debug\ProtectedExample.exe
+C:\DotNet7\C#\ProtectedExample\ProtectedExample\bin\Debug\ProtectedExample.pdb
+C:\DotNet7\C#\ProtectedExample\ProtectedExample\obj\Debug\ProtectedExample.csproj.AssemblyReference.cache
+C:\DotNet7\C#\ProtectedExample\ProtectedExample\obj\Debug\ProtectedExample.csproj.CoreCompileInputs.cache
+C:\DotNet7\C#\ProtectedExample\ProtectedExample\obj\Debug\ProtectedExample.exe
+C:\DotNet7\C#\ProtectedExample\ProtectedExample\obj\Debug\ProtectedExample.pdb
